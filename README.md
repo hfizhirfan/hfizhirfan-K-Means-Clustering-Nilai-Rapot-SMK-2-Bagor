@@ -1,5 +1,5 @@
-# Kmeans-data mining Kelompok 4
-Contoh sederhana dalam menerapkan Algorima Kmeans Pada Python yang digabung dengan web server Flask yang akan melakukan render chartJS pada browser
+# Kmeans-Data mining Kelompok 3
+
 
 # Cara penggunaan?
 1. Clone this Project
